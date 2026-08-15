@@ -1,15 +1,15 @@
 {
-	"geode": "5.4.1",
+	"geode": "5.9.0",
 	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
 		"mac": "2.2081"
 	},
-	"version": "v2.6.6",
-	"id": "zilko.xdbot",
-	"name": "xdBot",
-	"developer": "Zilko & Camellia",
-	"description": "XDBot port for 2.2081",
+	"version": "v1.0.0",
+	"id": "tem.tembot",
+	"name": "TemBot",
+	"developer": "Tem & Tem inc",
+	"description": "TemBot port for 2.2081",
 	"dependencies": {
 		"eclipse.ffmpeg-api": {
 			"version": ">=v2.0.0",
